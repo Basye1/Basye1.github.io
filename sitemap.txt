@@ -1,7 +1,7 @@
-http://example.com/2024/08/16/Hello%20World/
-http://example.com/tags/index.html
-http://example.com/link/index.html
-http://example.com/categories/index.html
-http://example.com/
-http://example.com/tags/%E6%97%A5%E8%AE%B0/
-http://example.com/categories/%E6%97%A5%E8%AE%B0/
+https://basye.top/2024/08/16/Hello%20World/
+https://basye.top/tags/index.html
+https://basye.top/link/index.html
+https://basye.top/categories/index.html
+https://basye.top/
+https://basye.top/tags/%E6%97%A5%E8%AE%B0/
+https://basye.top/categories/%E6%97%A5%E8%AE%B0/
